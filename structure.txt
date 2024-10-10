@@ -1,0 +1,9 @@
+<>= opening tag and closling tag
+<h1>-<h6>= heading tag
+<p>= pragraph
+<b>= bold
+<strong>= like as b tag
+<span>= like as p tag
+<br>= break tag
+<img>= image tag
+<src>= source 
